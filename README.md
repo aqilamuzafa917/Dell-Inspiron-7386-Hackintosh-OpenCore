@@ -1,7 +1,7 @@
 # Dell Inspiron 7386 (Kaby Lake R) OpenCore EFI
 
 This repository contains the OpenCore EFI configuration for running **macOS Tahoe** on a Dell Inspiron 7386 laptop.
-
+![SS](./img/hackintosh.png)
 This configuration was generated using OpenCore Simplify and includes manual modifications based on troubleshooting for this specific hardware.
 
 **OpenCore Version:** 1.0.5
@@ -32,7 +32,7 @@ This EFI is tailored for the following hardware:
 | **SMBIOS** | `MacBookPro16,1` | Set via `PlatformInfo`. Serials must be user-generated. |
 
 ---
-![SS](./img/ss.jpg)
+
 
 ## ✅ What Works
 
